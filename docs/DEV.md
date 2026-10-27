@@ -1,6 +1,6 @@
 ## Development
 
-### Frotend
+### Frontend
 ```
 npm run dev
 ```
